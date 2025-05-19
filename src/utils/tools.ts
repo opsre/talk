@@ -47,6 +47,8 @@ export const reLevel = (level: string[]): RegExp => new RegExp(`^${level?.map((i
 
 export const getLevel = (txt: string, level: string[]): string => {
   let re = new RegExp(`^(${level?.map(i => `(${i})`).join('|')})`, 'ig');
+  // 添加空值检查
+  if (!txt) return '';
   return (txt.match(re)?.[0] || '').trim().toLocaleUpperCase();
 }
 
