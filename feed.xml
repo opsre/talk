@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title>RSS</title>
+  <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+  <link>/</link>
+  <description>GitHub Discussions</description>
+  <item>
+  <title><![CDATA[noovertime7/gin-mysqlbak: 一款分布式高性能的备份系统，支持 MySQL、ElasticSearch 备份，多集群任务统一，数据集中存储]]></title>
+  <link>https://github.com/opsre/talk/discussions/6</link>
+  <guid isPermaLink="false">https://github.com/opsre/talk/discussions/6</guid>
+  <pubDate>2025-05-20</pubDate>
+  <description><![CDATA[<div align="center" dir="auto">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6954a63fb4651620f9cb5fe99029e4bcdf92e5e61d85e28e5dec73c8b76cb672/68747470733a2f2f636e622e636f6f6c2f36363636362f7265736f757263652f2d2f6769742f7261772f6d61696e2f696d672f68656e677469616f2e676966"><img src="https://camo.githubusercontent.com/6954a63fb4651620f9cb5fe99029e4bcdf92e5e61d85e28e5dec73c8b76cb672/68747470733a2f2f636e622e636f6f6c2f36363636362f7265736f757263652f2d2f6769742f7261772f6d61696e2f696d672f68656e677469616f2e676966" width="100%" height="3" data-animated-image="" data-canonical-src="https://cnb.cool/66666/resource/-/git/raw/main/img/hengtiao.gif" style="max-width: 100%;"></a><br><br>
+<markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th align="right">Repos</th>
+<th align="left"><a href="https://github.com/noovertime7/gin-mysqlbak">noovertime7/gin-mysqlbak</a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right"><strong>Views</strong></td>
+<td align="left"><a href="https://github.com/opsre/awesome-opsre"><img src="https://camo.githubusercontent.com/9b2c8184eed16a4f1843a9614b5e7f66c3002f109e7b2ca2389c8dfebb7274c9/68747470733a2f2f76696577732e77686174696c656172656e65642e746f6461792f76696577732f6769746875622f6e6f6f76657274696d65372f67696e2d6d7973716c62616b2e737667" alt="Eryajf HitCount" data-canonical-src="https://views.whatilearened.today/views/github/noovertime7/gin-mysqlbak.svg" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td align="right"><strong>Stars</strong></td>
+<td align="left"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/80984415d281fe4cc7029964eddc2ad467712347cfa2954559499950eb27eb23/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f6e6f6f76657274696d65372f67696e2d6d7973716c62616b3f636f6c6f723d663266303864266c6f676f3d556e64657274616c65266c6f676f436f6c6f723d656234363330"><img src="https://camo.githubusercontent.com/80984415d281fe4cc7029964eddc2ad467712347cfa2954559499950eb27eb23/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f6e6f6f76657274696d65372f67696e2d6d7973716c62616b3f636f6c6f723d663266303864266c6f676f3d556e64657274616c65266c6f676f436f6c6f723d656234363330" alt="" data-canonical-src="https://img.shields.io/github/stars/noovertime7/gin-mysqlbak?color=f2f08d&amp;logo=Undertale&amp;logoColor=eb4630" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td align="right"><strong>Forks</strong></td>
+<td align="left"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e8fbd30fe98aca96d084c32678b0cd047c59760d708741e577e7f13b599fcdab/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f6e6f6f76657274696d65372f67696e2d6d7973716c62616b3f636f6c6f723d626138366562266c6f676f3d48616e647368616b65266c6f676f436f6c6f723d656136616136"><img src="https://camo.githubusercontent.com/e8fbd30fe98aca96d084c32678b0cd047c59760d708741e577e7f13b599fcdab/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f6e6f6f76657274696d65372f67696e2d6d7973716c62616b3f636f6c6f723d626138366562266c6f676f3d48616e647368616b65266c6f676f436f6c6f723d656136616136" alt="" data-canonical-src="https://img.shields.io/github/forks/noovertime7/gin-mysqlbak?color=ba86eb&amp;logo=Handshake&amp;logoColor=ea6aa6" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td align="right"><strong>License</strong></td>
+<td align="left"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0c93ca71e73bb599dbfbd81eb5bbb82f63a427dc55ced5d8a7de2d4025f1f1c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c2d4e4f4e452d626c75653f6c6f676f3d756e6c6963656e7365"><img src="https://camo.githubusercontent.com/0c93ca71e73bb599dbfbd81eb5bbb82f63a427dc55ced5d8a7de2d4025f1f1c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c2d4e4f4e452d626c75653f6c6f676f3d756e6c6963656e7365" alt="GitHub License" data-canonical-src="https://img.shields.io/badge/L-NONE-blue?logo=unlicense" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td align="right"><strong>CreateAt</strong></td>
+<td align="left"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ca6ec3a5ced8742a8497ea0b596876b1c18ce512a57b1335fe01f3370fd48d65/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f637265617465642d61742f6e6f6f76657274696d65372f67696e2d6d7973716c62616b3f6c6f676f3d77616b6174696d65266c6162656c3d43"><img src="https://camo.githubusercontent.com/ca6ec3a5ced8742a8497ea0b596876b1c18ce512a57b1335fe01f3370fd48d65/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f637265617465642d61742f6e6f6f76657274696d65372f67696e2d6d7973716c62616b3f6c6f676f3d77616b6174696d65266c6162656c3d43" alt="GitHub Created At" data-canonical-src="https://img.shields.io/github/created-at/noovertime7/gin-mysqlbak?logo=wakatime&amp;label=C" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td align="right"><strong>UpdateAt</strong></td>
+<td align="left"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0f554e2f3aac9d970ab1edec4f906af42d8906bfc6595ecd4d6d7eeeed5a2d69/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f6e6f6f76657274696d65372f67696e2d6d7973716c62616b3f646973706c61795f74696d657374616d703d636f6d6d6974746572266c6f676f3d77616b6174696d65266c6162656c3d55"><img src="https://camo.githubusercontent.com/0f554e2f3aac9d970ab1edec4f906af42d8906bfc6595ecd4d6d7eeeed5a2d69/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f6e6f6f76657274696d65372f67696e2d6d7973716c62616b3f646973706c61795f74696d657374616d703d636f6d6d6974746572266c6f676f3d77616b6174696d65266c6162656c3d55" alt="GitHub last commit" data-canonical-src="https://img.shields.io/github/last-commit/noovertime7/gin-mysqlbak?display_timestamp=committer&amp;logo=wakatime&amp;label=U" style="max-width: 100%;"></a></td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+<a href="https://github.com/opsre/awesome-ops">
+<img align="center" src="https://camo.githubusercontent.com/74a820885ea19e3c2aed8b88c415d7160991c07795349be3d232e5b3ef7c4e34/68747470733a2f2f736f6369616c6966792e6769742e63692f6f707372652f617765736f6d652d6f70732f696d6167653f637573746f6d5f6465736372697074696f6e3d2546302539462541372542302b254538254145254230254535254244253935254536254146253846254534254238253830254534254238254141254534254238253845254538254246253930254537254242254234254537253942254238254535253835254233254537253941253834254534254243253938254537254137253830254539254131254239254537253942254145266465736372697074696f6e3d3126666f6e743d42697474657226666f726b733d31266c616e67756167653d31266c6f676f3d6874747073253341253246253246617661746172732e67697468756275736572636f6e74656e742e636f6d25324675253246313838353638303230266e616d653d31266f776e65723d31267061747465726e3d436972637569742b426f617264267374617267617a6572733d31267468656d653d4c69676874" width="650" height="400" alt="Awesome Opsre项目导航" data-canonical-src="https://socialify.git.ci/opsre/awesome-ops/image?custom_description=%F0%9F%A7%B0+%E8%AE%B0%E5%BD%95%E6%AF%8F%E4%B8%80%E4%B8%AA%E4%B8%8E%E8%BF%90%E7%BB%B4%E7%9B%B8%E5%85%B3%E7%9A%84%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE&amp;description=1&amp;font=Bitter&amp;forks=1&amp;language=1&amp;logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F188568020&amp;name=1&amp;owner=1&amp;pattern=Circuit+Board&amp;stargazers=1&amp;theme=Light" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6954a63fb4651620f9cb5fe99029e4bcdf92e5e61d85e28e5dec73c8b76cb672/68747470733a2f2f636e622e636f6f6c2f36363636362f7265736f757263652f2d2f6769742f7261772f6d61696e2f696d672f68656e677469616f2e676966"><img src="https://camo.githubusercontent.com/6954a63fb4651620f9cb5fe99029e4bcdf92e5e61d85e28e5dec73c8b76cb672/68747470733a2f2f636e622e636f6f6c2f36363636362f7265736f757263652f2d2f6769742f7261772f6d61696e2f696d672f68656e677469616f2e676966" width="100%" height="3" data-animated-image="" data-canonical-src="https://cnb.cool/66666/resource/-/git/raw/main/img/hengtiao.gif" style="max-width: 100%;"></a>
+</div>
+
+
+<p dir="auto"><strong>Table of Contents</strong>  <em>generated with <a href="https://github.com/thlorenz/doctoc">DocToc</a></em></p>
+<ul dir="auto">
+<li><a href="#gin-mysqlbak">gin-mysqlbak</a>
+<ul dir="auto">
+<li><a href="#%E4%B8%80%E7%8E%B0%E5%9C%A8%E5%BC%80%E5%A7%8B">一、现在开始</a></li>
+<li><a href="#%E4%BA%8C%E5%8A%9F%E8%83%BD%E6%BC%94%E7%A4%BA">二、功能演示</a></li>
+<li><a href="#%E5%9B%9Bfaq">三、FAQ</a></li>
+<li><a href="#%E4%BA%94%E5%85%B6%E4%BB%96">四、其他</a></li>
+</ul>
+</li>
+</ul>
+
+<h1 dir="auto">gin-mysqlbak</h1>
+<p dir="auto"> 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/126a88bd88a6e54603050c2a2eb908df34e609ca71aa6d7f2d314671e880d8dc/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c616e6775616765732f746f702f6e6f6f76657274696d65372f67696e2d6d7973716c62616b"><img src="https://camo.githubusercontent.com/126a88bd88a6e54603050c2a2eb908df34e609ca71aa6d7f2d314671e880d8dc/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c616e6775616765732f746f702f6e6f6f76657274696d65372f67696e2d6d7973716c62616b" alt="code-size" data-canonical-src="https://img.shields.io/github/languages/top/noovertime7/gin-mysqlbak" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6fb9a3cbd8fd8062a9f70b88b704127c1a11bd48b4c1935a95c2e82973dfb42d/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c616e6775616765732f636f64652d73697a652f6e6f6f76657274696d65372f67696e2d6d7973716c62616b"><img src="https://camo.githubusercontent.com/6fb9a3cbd8fd8062a9f70b88b704127c1a11bd48b4c1935a95c2e82973dfb42d/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c616e6775616765732f636f64652d73697a652f6e6f6f76657274696d65372f67696e2d6d7973716c62616b" alt="code-size" data-canonical-src="https://img.shields.io/github/languages/code-size/noovertime7/gin-mysqlbak" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f7cc8a3bd15979ea20e9e197f2182841b2946149cc5836dc1d7589dc7479f477/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f6e6f6f76657274696d65372f67696e2d6d7973716c62616b"><img src="https://camo.githubusercontent.com/f7cc8a3bd15979ea20e9e197f2182841b2946149cc5836dc1d7589dc7479f477/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f6e6f6f76657274696d65372f67696e2d6d7973716c62616b" alt="code-size" data-canonical-src="https://img.shields.io/github/last-commit/noovertime7/gin-mysqlbak" style="max-width: 100%;"></a>
+</p>
+<p dir="auto">gin-mysqlbak:一款简单高效、支持多集群统一备份的数据库备份平台，现已支持mysql与ElasticSearch备份。</p>
+<ol dir="auto">
+<li>请求链路日志打印，涵盖mysql/redis/request，集群版本支持jaeger链路追踪</li>
+<li>支持备份文件直接下载到本地，可一键还原至原数据库。</li>
+<li>支持对接S3协议对象存储存储备份文件，现已支持minio、阿里oss</li>
+<li>支持主机健康检查，主机离线通过钉钉发送告警</li>
+<li>支持钉钉推送备份状态，成功失败发送钉钉消息</li>
+<li>通过部署agent完成异地多节点备份，server作为微服务网关，备份任务统一管理，备份数据集中存储</li>
+<li>支持ElasticSearch快照管理，快照信息查看</li>
+<li>数据加密存储，数据库敏感信息密文保存，保证数据安全</li>
+</ol>
+<p dir="auto">项目地址：<a href="https://github.com/noovertime7/gin-mysqlbak">https://github.com/noovertime7/gin-mysqlbak</a></p>
+<p dir="auto">前端地址: <a href="https://github.com/noovertime7/gin-mysqlbak/tree/main/front">https://github.com/noovertime7/gin-mysqlbak/tree/main/front</a></p>
+<p dir="auto">agent地址: <a href="https://github.com/noovertime7/gin-mysqlbak-agent">https://github.com/noovertime7/gin-mysqlbak-agent</a></p>
+<h2 dir="auto">一、现在开始</h2>
+<p dir="auto">部署使用请查阅 <a href="https://noovertime7.github.io/mysqlbak-website/pages/help/start.html" rel="nofollow">https://noovertime7.github.io/mysqlbak-website/pages/help/start.html</a></p>
+<h2 dir="auto">二、功能演示</h2>
+<p dir="auto">首页大屏</p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3baccdb3c7a7a84010adf5d980ca9dce9f45bbba5f66abf536f23c3b221e7d9a/687474703a2f2f71696e69752e79756e7875653532312e746f702f6d7973716c62616b2f64617368626f6172642e6a7067"><img src="https://camo.githubusercontent.com/3baccdb3c7a7a84010adf5d980ca9dce9f45bbba5f66abf536f23c3b221e7d9a/687474703a2f2f71696e69752e79756e7875653532312e746f702f6d7973716c62616b2f64617368626f6172642e6a7067" alt="dashboard" data-canonical-src="http://qiniu.yunxue521.top/mysqlbak/dashboard.jpg" style="max-width: 100%;"></a><br>
+服务管理</p>
+<p dir="auto">agent部署成功后，会向server端发起注册，注册成功服务信息保存在服务管理页面</p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e7acd31d6c596c6f5e6f65c3982a96a667dbee1675a32722800868efc4c42b6e/687474703a2f2f71696e69752e79756e7875653532312e746f702f6d7973716c62616b2f736572766963655f6c6973742e6a7067"><img src="https://camo.githubusercontent.com/e7acd31d6c596c6f5e6f65c3982a96a667dbee1675a32722800868efc4c42b6e/687474703a2f2f71696e69752e79756e7875653532312e746f702f6d7973716c62616b2f736572766963655f6c6973742e6a7067" alt="服务管理" data-canonical-src="http://qiniu.yunxue521.top/mysqlbak/service_list.jpg" style="max-width: 100%;"></a><br>
+应用管理<br>
+当前服务下所有应用，包括mysql与elastic应用</p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b3d979a42a39206e7f92a76ba5ff33ecc0914adf4ad5a1e31d95ffd0aac61a3a/687474703a2f2f71696e69752e79756e7875653532312e746f702f6d7973716c62616b2f6170702e6a7067"><img src="https://camo.githubusercontent.com/b3d979a42a39206e7f92a76ba5ff33ecc0914adf4ad5a1e31d95ffd0aac61a3a/687474703a2f2f71696e69752e79756e7875653532312e746f702f6d7973716c62616b2f6170702e6a7067" alt="应用管理" data-canonical-src="http://qiniu.yunxue521.top/mysqlbak/app.jpg" style="max-width: 100%;"></a><br>
+任务管理<br>
+当前服务下所有任务，包括mysql与elastic任务</p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9820f2bb99c021255d445189b55586879fe95fde98dcf2ee1ed929e62a85d716/687474703a2f2f71696e69752e79756e7875653532312e746f702f6d7973716c62616b2f7461736b2e6a7067"><img src="https://camo.githubusercontent.com/9820f2bb99c021255d445189b55586879fe95fde98dcf2ee1ed929e62a85d716/687474703a2f2f71696e69752e79756e7875653532312e746f702f6d7973716c62616b2f7461736b2e6a7067" alt="任务管理" data-canonical-src="http://qiniu.yunxue521.top/mysqlbak/task.jpg" style="max-width: 100%;"></a><br>
+任务总览<br>
+任务总览界面包含集群内所有注册服务的任务列表，可以很方便的启动停止任务，同步周期取决与配置文件中的clusterSyncPeriod</p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/noovertime7/gin-mysqlbak/blob/main/img/task_overview.jpg?raw=true"><img src="https://github.com/noovertime7/gin-mysqlbak/blob/main/img/task_overview.jpg?raw=true" alt="任务总览" style="max-width: 100%;"></a><br>
+历史记录<br>
+包括mysql历史记录与elastic快照记录</p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/noovertime7/gin-mysqlbak/blob/main/img/history.jpg?raw=true"><img src="https://github.com/noovertime7/gin-mysqlbak/blob/main/img/history.jpg?raw=true" alt="历史记录" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://noovertime7.github.io/mysqlbak-website/pages/show/show.html" rel="nofollow">更多功能演示</a></p>
+<h2 dir="auto">三、FAQ</h2>
+<p dir="auto">1.目前的工作方向？</p>
+<p dir="auto">前端重构完成后，发布3.0.0版本，未来会持续优化系统</p>
+<h2 dir="auto">四、其他</h2>
+<p dir="auto">这个项目的前端后端包括agent都是我一个人完成，所以会有很多不足，希望能提issue，或者提PR一起来完善这个项目</p>]]></description>
+</item>
+<item>
+  <title><![CDATA[rgd.yml]]></title>
+  <link>https://github.com/opsre/talk/discussions/1</link>
+  <guid isPermaLink="false">https://github.com/opsre/talk/discussions/1</guid>
+  <pubDate>2025-05-18</pubDate>
+  <description><![CDATA[<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="owner: opsre
+repo: talk
+
+website:
+  logo: https://avatars.githubusercontent.com/u/188568020?s=200&amp;v=4
+  title: Talk
+  description: 认清不足，认识优秀，认知提升，共同成长。
+  home: issues-labels
+  home-layout: [label]
+  label-category: [技术分享, 最佳实践, 经验积累, 问答释疑,开源项目]
+  label-level: [L1, L2, L3, L4]
+  built-date: 2025
+
+manifest:
+  name: Talk
+  short_name: Talk
+  start_url: /
+  background_color: &quot;#654FF0&quot;
+  theme_color: &quot;#FFFFFF&quot;
+  display: standalone
+  icon: https://avatars.githubusercontent.com/u/188568020?s=200&amp;v=4"><pre class="notranslate"><code class="notranslate">owner: opsre
+repo: talk
+
+website:
+  logo: https://avatars.githubusercontent.com/u/188568020?s=200&amp;v=4
+  title: Talk
+  description: 认清不足，认识优秀，认知提升，共同成长。
+  home: issues-labels
+  home-layout: [label]
+  label-category: [技术分享, 最佳实践, 经验积累, 问答释疑,开源项目]
+  label-level: [L1, L2, L3, L4]
+  built-date: 2025
+
+manifest:
+  name: Talk
+  short_name: Talk
+  start_url: /
+  background_color: "#654FF0"
+  theme_color: "#FFFFFF"
+  display: standalone
+  icon: https://avatars.githubusercontent.com/u/188568020?s=200&amp;v=4
+</code></pre></div>]]></description>
+</item>
+<item>
+  <title><![CDATA[基于CNAME解析实践的域名优雅方案]]></title>
+  <link>https://github.com/opsre/talk/discussions/4</link>
+  <guid isPermaLink="false">https://github.com/opsre/talk/discussions/4</guid>
+  <pubDate>2025-05-18</pubDate>
+  <description><![CDATA[<p dir="auto">通常，我们针对域名管理，以及其下 NGINX 配置文件的管理，大多都是分散的，这种分散并不是刻意为之，而是随着业务发展以及需求的对接，不知不觉中，发现域名加了一个又一个，配置文件更是各不相同，这对标准化而言是个灾难，对未来的操作更是注入了不稳定因素。</p>
+<p dir="auto">所谓天下大势，分分合合。</p>
+<p dir="auto">形如 hosts 到 dns，jenkinsfile 到 share library，我统一把这种思路归到初中时的一个数学思路：提取公因式。</p>
+<p dir="auto">那么对于域名解析方面的实践，这里要介绍的，其实也是一次提取公因式。</p>
+<h2 dir="auto">1，CNAME</h2>
+<h3 dir="auto">1，分析</h3>
+<p dir="auto">通过 CNAME 的方式，我们能够轻松的将一些相对集中的域名进行更加优雅统一的管理，这种方案的思路大概如下：</p>
+<p dir="auto">假如我们的测试环境所有的域名有一个统一的入口 NGINX，此后所有的测试域名都在这里解析，如果按照传统的思路，那么一个域名对应一条 A 记录，那么如果测试环境有 100 个域名，就会需要添加 100 个 A 记录，这看起来似乎也没什么问题，但是，如果这个时候因为一些原因，此入口 NGINX 需要迁移，或者外网 IP 不得不更换，此时即便是有工具能够批量修改 100 个 A 记录，也是一个不够优雅便捷的方案。</p>
+<p dir="auto">我们稍微调整一下方案：解析一个统一的 A 记录在入口处，然后其他域名都通过 CNAME 的方式解析到统一的 A 记录上，这样一来，就算是测试入口需要变更，也只需要更改一条记录即可解决此问题，而不需要考虑那 100 个了。</p>
+<h3 dir="auto">2，示例</h3>
+<p dir="auto">此时我拿个人域名 eryajf.net 举例，当前 wiki 站点域名解析如下：</p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="$ dig wiki.eryajf.net
+
+; &lt;&lt;&gt;&gt; DiG 9.10.6 &lt;&lt;&gt;&gt; wiki.eryajf.net
+;; global options: +cmd
+;; Got answer:
+;; -&gt;&gt;HEADER&lt;&lt;- opcode: QUERY, status: NOERROR, id: 15687
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;wiki.eryajf.net.		IN	A
+
+;; ANSWER SECTION:
+wiki.eryajf.net.	599	IN	A	8.136.215.57
+
+;; Query time: 253 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8)
+;; WHEN: Tue Jun 22 23:24:33 CST 2021
+;; MSG SIZE  rcvd: 60"><pre class="notranslate">$ dig wiki.eryajf.net
+
+<span class="pl-k">;</span> <span class="pl-s"><span class="pl-k">&lt;&lt;</span><span class="pl-k">&gt;&gt;</span> DiG 9.10.6 &lt;&lt;&gt;&gt; wiki.eryajf.net</span>
+<span class="pl-s">;; global options: +cmd</span>
+<span class="pl-s">;; Got answer:</span>
+<span class="pl-s">;; -&gt;&gt;HEADER&lt;&lt;- opcode: QUERY, status: NOERROR, id: 15687</span>
+<span class="pl-s">;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1</span>
+<span class="pl-s"></span>
+<span class="pl-s">;; OPT PSEUDOSECTION:</span>
+<span class="pl-s">; EDNS: version: 0, flags:; udp: 512</span>
+<span class="pl-s">;; QUESTION SECTION:</span>
+<span class="pl-s">;wiki.eryajf.net.		IN	A</span>
+<span class="pl-s"></span>
+<span class="pl-s">;; ANSWER SECTION:</span>
+<span class="pl-s">wiki.eryajf.net.	599	IN	A	8.136.215.57</span>
+<span class="pl-s"></span>
+<span class="pl-s">;; Query time: 253 msec</span>
+<span class="pl-s">;; SERVER: 8.8.8.8#53(8.8.8.8)</span>
+<span class="pl-s">;; WHEN: Tue Jun 22 23:24:33 CST 2021</span>
+<span class="pl-s">;; MSG SIZE  rcvd: 60</span></pre></div>
+<p dir="auto">可以看到是直接 A 记录解析到 <code class="notranslate">8.136.215.57</code>。</p>
+<p dir="auto">现在，我在 DNS 解析中做一些调整：</p>
+<ul dir="auto">
+<li>
+<p dir="auto">先加一条 A 记录 <code class="notranslate">prod.eryajf.net</code>:</p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/635b857234c57e6d7bc2b3d29e2197c694250a62efd0e0f357a3c173824cd171/68747470733a2f2f742e657279616a662e6e65742f696d67732f323032312f30392f626662633330373939313461313362382e6a7067"><img src="https://camo.githubusercontent.com/635b857234c57e6d7bc2b3d29e2197c694250a62efd0e0f357a3c173824cd171/68747470733a2f2f742e657279616a662e6e65742f696d67732f323032312f30392f626662633330373939313461313362382e6a7067" alt="image-20210622232855369" data-canonical-src="https://t.eryajf.net/imgs/2021/09/bfbc3079914a13b8.jpg" style="max-width: 100%;"></a></p>
+</li>
+<li>
+<p dir="auto">然后添加一条 CNAME 记录作为正常的服务域名 <code class="notranslate">wiki.eryajf.net</code>:</p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cb220f997d93580184feb289d6b463e134af322da48717416a5671083b8a65a0/68747470733a2f2f742e657279616a662e6e65742f696d67732f323032312f30392f633636653433643138663333333433302e6a7067"><img src="https://camo.githubusercontent.com/cb220f997d93580184feb289d6b463e134af322da48717416a5671083b8a65a0/68747470733a2f2f742e657279616a662e6e65742f696d67732f323032312f30392f633636653433643138663333333433302e6a7067" alt="image-20210622233129677" data-canonical-src="https://t.eryajf.net/imgs/2021/09/c66e43d18f333430.jpg" style="max-width: 100%;"></a></p>
+</li>
+</ul>
+<p dir="auto">这个时候我们可以将域名 CNAME 到上边定义的 A 记录，那么就能把 100 个域名进行统一解析管理了。</p>
+<p dir="auto"><code class="notranslate">注意：</code>CNAME 记录值中域名最后位的点可带可不带。</p>
+<p dir="auto">此时该域名的解析链路如下：</p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="$ dig wiki.eryajf.net
+
+; &lt;&lt;&gt;&gt; DiG 9.10.6 &lt;&lt;&gt;&gt; wiki.eryajf.net
+;; global options: +cmd
+;; Got answer:
+;; -&gt;&gt;HEADER&lt;&lt;- opcode: QUERY, status: NOERROR, id: 40403
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;wiki.eryajf.net.		IN	A
+
+;; ANSWER SECTION:
+wiki.eryajf.net.	599	IN	CNAME	prod.eryajf.net.
+prod.eryajf.net.	599	IN	A	8.136.215.57
+
+;; Query time: 440 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8)
+;; WHEN: Tue Jun 22 23:33:39 CST 2021
+;; MSG SIZE  rcvd: 79"><pre class="notranslate"><code class="notranslate">$ dig wiki.eryajf.net
+
+; &lt;&lt;&gt;&gt; DiG 9.10.6 &lt;&lt;&gt;&gt; wiki.eryajf.net
+;; global options: +cmd
+;; Got answer:
+;; -&gt;&gt;HEADER&lt;&lt;- opcode: QUERY, status: NOERROR, id: 40403
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;wiki.eryajf.net.		IN	A
+
+;; ANSWER SECTION:
+wiki.eryajf.net.	599	IN	CNAME	prod.eryajf.net.
+prod.eryajf.net.	599	IN	A	8.136.215.57
+
+;; Query time: 440 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8)
+;; WHEN: Tue Jun 22 23:33:39 CST 2021
+;; MSG SIZE  rcvd: 79
+</code></pre></div>
+<p dir="auto">其中的 <code class="notranslate">ANSWER SECTION</code>很清晰地列出了整个链路解析流程。</p>]]></description>
+</item>
+<item>
+  <title><![CDATA[第二期：MCP与K8S结合的实践心得-2025年4月11日晚上九点]]></title>
+  <link>https://github.com/opsre/talk/discussions/3</link>
+  <guid isPermaLink="false">https://github.com/opsre/talk/discussions/3</guid>
+  <pubDate>2025-05-19</pubDate>
+  <description><![CDATA[<p dir="auto">分享主题：MCP与K8S结合的实践心得<br>
+时间： 周五(4月11日)晚上九点。<br>
+分享人： <a href="https://github.com/weibaohui">https://github.com/weibaohui</a><br>
+老哥的项目： <a href="https://github.com/weibaohui/k8m">https://github.com/weibaohui/k8m</a></p>
+<p dir="auto">前置MCP学习了解：<a href="https://mp.weixin.qq.com/s/BjsoBsUxCzeqXZq46_nrog" rel="nofollow">https://mp.weixin.qq.com/s/BjsoBsUxCzeqXZq46_nrog</a></p>]]></description>
+</item>
+<item>
+  <title><![CDATA[第一期：Jenkins基于Share Library共享库的最佳实践探索-2022年5月24日晚20:00]]></title>
+  <link>https://github.com/opsre/talk/discussions/2</link>
+  <guid isPermaLink="false">https://github.com/opsre/talk/discussions/2</guid>
+  <pubDate>2025-05-19</pubDate>
+  <description><![CDATA[<p dir="auto">📣 直播预告</p>
+<ul dir="auto">
+<li>时间：5月24日 晚 20:00</li>
+<li>分享主题：Jenkins基于Share Library共享库的最佳实践探索</li>
+<li>分享嘉宾：<a href="https://github.com/eryajf">https://github.com/eryajf</a></li>
+</ul>
+<p dir="auto">😼本期内容简介：</p>
+<p dir="auto">古代治学总结有人生三境界，在我看来，Jenkins 使用接入亦有三个阶段，这也是每一个运维人员应用 Jenkins 所必须要经历的。</p>
+<p dir="auto">这次就来分享Jenkins应用的最高境界--共享库最佳实践的探索。</p>
+<ul dir="auto">
+<li>直播地址：<a href="http://live.bilibili.com/25084425" rel="nofollow">http://live.bilibili.com/25084425</a></li>
+<li>录播地址：<a href="https://www.bilibili.com/video/BV1DT4y1q7RZ/" rel="nofollow">https://www.bilibili.com/video/BV1DT4y1q7RZ/</a></li>
+<li>本地分享参考文章地址：<a href="https://wiki.eryajf.net/pages/fa2478/" rel="nofollow">https://wiki.eryajf.net/pages/fa2478/</a></li>
+</ul>]]></description>
+</item>
+
+</channel>
+</rss>

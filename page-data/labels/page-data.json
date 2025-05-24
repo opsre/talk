@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-nav-labels-tsx",
+    "path": "/labels",
+    "result": {"pageContext":{"labelsList":[{"id":"LA_kwDOOr6_xM8AAAACAoz4IA","name":"开源项目","color":"15785A","description":""},{"id":"LA_kwDOOr6_xM8AAAACAn_fbw","name":"最佳实践","color":"0E8A16","description":"分享记录那些优秀的最佳实践"},{"id":"LA_kwDOOr6_xM8AAAACAn_fag","name":"技术分享","color":"7057ff","description":"聆听大佬的教诲"}]}},
+    "staticQueryHashes": ["151096407","2861350382"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-category-tsx",
+    "path": "/category/技术分享",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"第二期：MCP与K8S结合的实践心得-2025年4月11日晚上九点","number":3}},{"node":{"title":"第一期：Jenkins基于Share Library共享库的最佳实践探索-2022年5月24日晚20:00","number":2}}]}},"pageContext":{"category":{"name":"技术分享","emoji":":speech_balloon:","description":"技术分享，通过在线会议，或者直播的形式分享","isAnswerable":false},"name":"技术分享","nlen":1}},
+    "staticQueryHashes": ["151096407","2861350382"]}

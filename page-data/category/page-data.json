@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-nav-category-tsx",
+    "path": "/category",
+    "result": {"pageContext":{"categoryList":[{"name":"开源项目","emoji":":clap:","description":"记录开源项目","isAnswerable":false},{"name":"Announcements","emoji":":mega:","description":"Updates from maintainers","isAnswerable":false},{"name":"最佳实践","emoji":":partying_face:","description":"分享记录那些优秀的最佳实践","isAnswerable":false},{"name":"技术分享","emoji":":speech_balloon:","description":"技术分享，通过在线会议，或者直播的形式分享","isAnswerable":false}]}},
+    "staticQueryHashes": ["151096407","2861350382"]}
