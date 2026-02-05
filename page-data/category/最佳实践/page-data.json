@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-category-tsx",
+    "path": "/category/最佳实践",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"基于CNAME解析实践的域名优雅方案","number":4}}]}},"pageContext":{"category":{"name":"最佳实践","emoji":":partying_face:","description":"分享记录那些优秀的最佳实践","isAnswerable":false},"name":"最佳实践","nlen":1}},
+    "staticQueryHashes": ["151096407","2861350382"]}

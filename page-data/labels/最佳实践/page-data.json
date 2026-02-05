@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/最佳实践",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"基于CNAME解析实践的域名优雅方案","number":4}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr6_xM8AAAACAn_fbw","name":"最佳实践","color":"0E8A16","description":"分享记录那些优秀的最佳实践"},"name":"最佳实践","nlen":1}},
+    "staticQueryHashes": ["151096407","2861350382"]}

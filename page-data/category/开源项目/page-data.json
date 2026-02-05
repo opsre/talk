@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-category-tsx",
+    "path": "/category/开源项目",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"noovertime7/gin-mysqlbak: 一款分布式高性能的备份系统，支持 MySQL、ElasticSearch 备份，多集群任务统一，数据集中存储","number":6}}]}},"pageContext":{"category":{"name":"开源项目","emoji":":clap:","description":"记录开源项目","isAnswerable":false},"name":"开源项目","nlen":1}},
+    "staticQueryHashes": ["151096407","2861350382"]}
